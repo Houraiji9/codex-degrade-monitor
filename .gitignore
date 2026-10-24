@@ -1,0 +1,13 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+*.pyc
+
+# 运行时生成的数据文件（不入库）
+last_check*.txt
+selftest_result.txt
+codex_watch_config.json
+巡检日志.txt
+崩溃日志.txt
